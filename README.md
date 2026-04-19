@@ -4,8 +4,6 @@ API do projeto Food Explorer que concentrará dados de usuários e pratos do car
 O projeto será divido em duas partes: `Front-end` e `Back-end`
 
 Front-end: https://github.com/JacksonJLGravino/FoodExplorer-FrontEnd
-<br>
-Site funcionando: https://jg-foodexplorer.netlify.app/
 
 ## Tecnologias
 
@@ -20,10 +18,3 @@ Site funcionando: https://jg-foodexplorer.netlify.app/
 - [Multer](https://www.npmjs.com/package/multer)
 - [CORS](https://www.npmjs.com/package/cors)
 - [PM2](https://pm2.keymetrics.io/)
-
-#### 🔑 Visão do Administrador:
-
-```bash
-  e-mail: admin@admin.com
-  senha: admin
-```
